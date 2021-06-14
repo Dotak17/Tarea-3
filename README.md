@@ -30,7 +30,20 @@
 
 
 ejercicios cap 6
+
 ![](https://user-images.githubusercontent.com/84998013/121970682-ae3e9180-cd3c-11eb-896e-e45293e15c72.png)
+
+![](https://user-images.githubusercontent.com/84998013/121970815-02497600-cd3d-11eb-8439-68eed71b94b6.png)
+
+![](https://user-images.githubusercontent.com/84998013/121970897-25742580-cd3d-11eb-89e3-06223e39b584.png)
+
+![](https://user-images.githubusercontent.com/84998013/121970937-40469a00-cd3d-11eb-9e63-89b1f07ac77f.png)
+
+![](https://user-images.githubusercontent.com/84998013/121970965-548a9700-cd3d-11eb-8fa6-8ec907437034.png)
+
+![](https://user-images.githubusercontent.com/84998013/121971011-69ffc100-cd3d-11eb-9418-f7ead198dbc9.png)
+
+
 
 
 
