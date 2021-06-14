@@ -29,6 +29,11 @@
 
 
 
+ejercicios cap 6
+![](https://user-images.githubusercontent.com/84998013/121970682-ae3e9180-cd3c-11eb-896e-e45293e15c72.png)
+
+
+
 
 
 - VIDEO
