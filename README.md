@@ -16,6 +16,14 @@
 -Redefinir con nuestras propias palabras y el uso de mapas mentales la teoria que se vera en el capitulo 7 del libro de estudio
 
 - MARCO TEORICO
+- 
+- part 1
+
+CAP 5 prte 2
+
+![](https://user-images.githubusercontent.com/84998013/121971337-222d6980-cd3e-11eb-913d-ca13ba86cb19.png)
+
+![](https://user-images.githubusercontent.com/84998013/121971433-54d76200-cd3e-11eb-9cbf-0a8d3a87f6d1.png)
 
 
 
