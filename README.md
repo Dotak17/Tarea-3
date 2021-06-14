@@ -2,10 +2,18 @@
 
 - OBJETIVOS GENERALES
 
--Determinar los conceptos basicos de los circuitos paralelos mediante la esquematizacion de mapas mentales de cada uno de los temas a tratar con referencia a los circuitos paralelos mediante el uso de libros, paginas web y demas sitios externos al libro  de analizis de circuitos de Robbins Wilhelm para saber como aplicarlo de manera practica y matematica en la resolucion de los distintos problemas planteados a lo largo del trabajo 
+-Determinar los conceptos basicos de los circuitos paralelos mediante la esquematizacion de mapas mentales de cada uno de los temas a tratar con referencia a los circuitos paralelos mediante el uso de libros, paginas web y demas sitios externos al libro  de analizis de circuitos de Robbins Wilhelm para saber como aplicarlo de manera practica y matematica en la resolucion de los distintos problemas planteados a lo largo del trabajo.
+
+-Analizar cómo se compone un circuito en serie y sus características al estudiar el concepto de la ley de kirchoff siendo una importante ley de la electricidad y a partir de sus leyes analizar cualquier circuito.
 
 
 - OBJETIVOS ESPECIFICOS
+
+
+
+-Comprender la regla del divisor siendo útil para determinar el voltaje de cualquier resistencia en serie 
+
+-Conocer el concepto de tierra, así como su símbolo e importancia de su conexión 
 
 
 
