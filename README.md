@@ -25,9 +25,11 @@
 
 - MARCO TEORICO
 - 
-- part 1
+- CIRCUITOS EN SERIE CAPITULO 5 
 
-CAP 5 prte 2
+
+
+
 
 ![](https://user-images.githubusercontent.com/84998013/121971337-222d6980-cd3e-11eb-913d-ca13ba86cb19.png)
 
