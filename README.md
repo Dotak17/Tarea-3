@@ -50,9 +50,17 @@ Ejercicios cap 5
 
 ![](https://user-images.githubusercontent.com/84397282/121998966-4c991a00-cd72-11eb-9707-cfbcdc45a491.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121998968-4d31b080-cd72-11eb-8223-68fcb4b9ac65.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121998970-4dca4700-cd72-11eb-8301-f86f3bbf2f08.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121998972-4dca4700-cd72-11eb-9d1f-e74749885d85.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121998974-4dca4700-cd72-11eb-9f25-041145417716.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121998976-4e62dd80-cd72-11eb-82b0-5ec1b06779e3.jpg)
+
+![](
 
 
 
