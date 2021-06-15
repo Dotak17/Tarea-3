@@ -58,6 +58,15 @@ ejercicios cap 6
 
 ![](https://user-images.githubusercontent.com/84998013/121970965-548a9700-cd3d-11eb-8fa6-8ec907437034.png)
 
+
+
+
+
+
+
+
+
+
 ![](https://user-images.githubusercontent.com/84998013/121971011-69ffc100-cd3d-11eb-9418-f7ead198dbc9.png)
 
 ![](https://user-images.githubusercontent.com/84397282/121983769-7bee5d80-cd57-11eb-9b95-f55103f62351.jpg)
