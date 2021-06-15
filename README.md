@@ -15,7 +15,7 @@
 
 -Conocer el concepto de tierra, así como su símbolo e importancia de su conexión 
 
-
+-Aprender a identificar las elevaciones y caídas de voltaje en los diagramas de circuitos para poder aplicar las leyes de Kirchhoff.
 
 -Encontrar las diferencias entre un circuito paralelo y un circuito en serie a traves de distintos conceptos a estudiar en el capitulo 7 
 
