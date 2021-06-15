@@ -96,6 +96,8 @@ EJERCIOS CAPITULO 6
 
 ![](https://user-images.githubusercontent.com/84998005/122015008-55471b80-cd85-11eb-9ace-702cf3c39caf.png)
 
+![](https://user-images.githubusercontent.com/84998005/122014968-4e200d80-cd85-11eb-913f-3d43dbd50a99.png)
+
 ![](https://user-images.githubusercontent.com/84998005/122014963-4c564a00-cd85-11eb-9ad2-e1e831af1ff2.png)
 
 ![](https://user-images.githubusercontent.com/84998005/122014976-4eb8a400-cd85-11eb-8589-77c28a131cbb.png)
