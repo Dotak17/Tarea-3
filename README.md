@@ -72,6 +72,8 @@ ejercicios cap 6
 
 - CONCLUSIONES
 
+-El correcto análisis de las elevaciones y caídas de voltaje en los diagramas de circuitos nos facilitó la realización de los sistemas de ecuaciones para resolver los ejercicios. 
+
 -Se determino que usando la ley de  corrientes de Kirchhoff se puede encontrar la suma de las resistencias conectadas en paralelo de un circuito  y determinar una resistencia equivalente
 
 -El uso del multimetro en la medicion de un circuito practico es crucial para demostrar que en la teoria y formulacion matematica estan en lo correccto y apesar de que pueda existis un error entre los valores calculados y los valores medidos son errores que pueden ser despreciables
@@ -80,6 +82,8 @@ ejercicios cap 6
 
 
 - BIBLIOGRAFIA
+
+-Yozeth, P (2017). Principios de Circuitos electricos. Bogota
 
 -Wilhelm, R. (2008). Analisis de Circuitos, Teoria y Practica. Mexico D.F.: Cengace learning.
 
