@@ -60,14 +60,21 @@ Ejercicios cap 5
 
 ![](https://user-images.githubusercontent.com/84397282/121998976-4e62dd80-cd72-11eb-82b0-5ec1b06779e3.jpg)
 
-![](
+![](https://user-images.githubusercontent.com/84397282/121998978-4e62dd80-cd72-11eb-8c6a-26719cbdcc4d.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121998980-4efb7400-cd72-11eb-98ce-24dee652755b.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121998981-4efb7400-cd72-11eb-8e33-06abaf2cb497.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121998982-4f940a80-cd72-11eb-9eea-393ce6aa49d4.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121998984-4f940a80-cd72-11eb-8b80-386e746a6be8.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121998986-4f940a80-cd72-11eb-85a0-c5e404731a52.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121998987-502ca100-cd72-11eb-8724-4415d783b282.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121998991-50c53780-cd72-11eb-910c-f2da14d2cb4c.jpg)
 
 
 
