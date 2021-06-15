@@ -44,6 +44,23 @@ CIRCUITOS EN SERIE CAPITULO 5
 - RESOLUCION DE PROBLEMAS
 Ejercicios cap 5
 
+![](https://user-images.githubusercontent.com/84397282/121998961-4acf5680-cd72-11eb-9d39-06c6f5f13688.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121998965-4c008380-cd72-11eb-9ae5-341172daba6d.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121998966-4c991a00-cd72-11eb-9707-cfbcdc45a491.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ejercicios cap 6
