@@ -125,7 +125,7 @@ ejercicios cap 6
 
 - VIDEO
 
-
+- https://www.youtube.com/watch?v=O2_4lyoQ3Eo
 
 - CONCLUSIONES
 
