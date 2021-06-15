@@ -78,7 +78,7 @@ Ejercicios cap 5
 
 
 
-ejercicios cap 6
+EJERCIOS CAPITULO 6
 
 ![](https://user-images.githubusercontent.com/84998013/121970682-ae3e9180-cd3c-11eb-896e-e45293e15c72.png)
 
@@ -89,6 +89,16 @@ ejercicios cap 6
 ![](https://user-images.githubusercontent.com/84998013/121970937-40469a00-cd3d-11eb-9e63-89b1f07ac77f.png)
 
 ![](https://user-images.githubusercontent.com/84998013/121970965-548a9700-cd3d-11eb-8fa6-8ec907437034.png)
+
+![](https://user-images.githubusercontent.com/84998005/122015005-54ae8500-cd85-11eb-81c2-5520586dde9c.png)
+
+![](https://user-images.githubusercontent.com/84998005/122015013-55dfb200-cd85-11eb-8db6-619a9710df96.png)
+
+![](https://user-images.githubusercontent.com/84998005/122015008-55471b80-cd85-11eb-9ace-702cf3c39caf.png)
+
+![](https://user-images.githubusercontent.com/84998005/122014963-4c564a00-cd85-11eb-9ad2-e1e831af1ff2.png)
+
+![](https://user-images.githubusercontent.com/84998005/122014976-4eb8a400-cd85-11eb-8589-77c28a131cbb.png)
 
 
 
