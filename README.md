@@ -60,6 +60,22 @@ ejercicios cap 6
 
 ![](https://user-images.githubusercontent.com/84998013/121971011-69ffc100-cd3d-11eb-9418-f7ead198dbc9.png)
 
+![](https://user-images.githubusercontent.com/84397282/121983769-7bee5d80-cd57-11eb-9b95-f55103f62351.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121983775-7d1f8a80-cd57-11eb-8c6a-21e639c2e5cc.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121983779-7d1f8a80-cd57-11eb-8910-dcd1c2c1e643.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121983781-7db82100-cd57-11eb-9f9d-f82796f16aca.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121983781-7db82100-cd57-11eb-9f9d-f82796f16aca.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121983782-7db82100-cd57-11eb-9ab6-2cc9bb49bc14.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121983784-7db82100-cd57-11eb-9a2d-5d0822f415fe.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121983785-7db82100-cd57-11eb-9aad-0d555e0ddb92.jpg)
+
 
 
 
