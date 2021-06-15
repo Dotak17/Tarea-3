@@ -11,17 +11,17 @@
 
 
 
--Comprender la regla del divisor siendo útil para determinar el voltaje de cualquier resistencia en serie 
+-Comprender la regla del divisor siendo útil para determinar el voltaje de cualquier resistencia en serie .
 
--Conocer el concepto de tierra, así como su símbolo e importancia de su conexión 
+-Conocer el concepto de tierra, así como su símbolo e importancia de su conexión .
 
 -Aprender a identificar las elevaciones y caídas de voltaje en los diagramas de circuitos para poder aplicar las leyes de Kirchhoff.
 
--Encontrar las diferencias entre un circuito paralelo y un circuito en serie a traves de distintos conceptos a estudiar en el capitulo 7 
+-Encontrar las diferencias entre un circuito paralelo y un circuito en serie a traves de distintos conceptos a estudiar en el capitulo 6.
 
--Comprender el uso de formulas matematicas acerca de los circuitos paralelos para saber como aplicarlo en la demostracion practica de la teoria estudiada
+-Comprender el uso de formulas matematicas acerca de los circuitos paralelos para saber como aplicarlo en la demostracion practica de la teoria estudiada.
 
--Redefinir con nuestras propias palabras y el uso de mapas mentales la teoria que se vera en el capitulo 7 del libro de estudio
+-Redefinir con nuestras propias palabras y el uso de mapas mentales la teoria que se vera en el capitulo 7 del libro de estudio.
 
 - MARCO TEORICO
 
