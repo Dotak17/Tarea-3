@@ -24,11 +24,10 @@
 -Redefinir con nuestras propias palabras y el uso de mapas mentales la teoria que se vera en el capitulo 7 del libro de estudio
 
 - MARCO TEORICO
-- 
-- CIRCUITOS EN SERIE CAPITULO 5 
 
+CIRCUITOS EN SERIE CAPITULO 5 
 
-
+![](https://user-images.githubusercontent.com/84998005/121975459-45a8e200-cd47-11eb-8459-b0578504206f.png)
 
 
 ![](https://user-images.githubusercontent.com/84998013/121971337-222d6980-cd3e-11eb-913d-ca13ba86cb19.png)
